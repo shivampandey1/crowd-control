@@ -30,5 +30,4 @@ We also had to learn many new softwares on the go, from understanding integratio
 * Adding more features to the web app for greater control, and flexibility
 * Providing system analytics to root users in order to manage events more effectively
 * Authentication system to allow multiple root users to manage Crowd Control simultaneously
-* Expand use cases and application functionality while adhering to our core principles of maintaining a simple yet 
-* Efficient experience for both end users and admins.
+* Expand use cases and application functionality while adhering to our core principles of maintaining a simple yet efficient experience for both end users and admins.
